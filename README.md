@@ -34,7 +34,7 @@ Each implementation must include:
 * App is responsive on desktop and mobile, making best use of available screen real-estate. See [Vue HN](https://vue-hn.now.sh/top) as an example.
 * App must do its best to work cross-browser
 
-Optionally:
+Optional:
 
 * App supports offline caching of HN data (e.g similar to the 'Offline Mode' in ReactHN)
 * App may use server-side rendering so displaying content is resilient to JS not loading on the network
